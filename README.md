@@ -1,2 +1,16 @@
 # CodeAlpha_Portfolio
-Modern and responsive portfolio website featuring About Me, Skills, Projects, Resume, and Contact sections with smooth scrolling and interactive design.
+A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript.
+## Features
+- Responsive Design
+- Smooth Scrolling
+- About Me Section
+- Skills Section
+- Projects Showcase
+- Resume Download Button
+- Contact Information
+- Hover Effects
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
